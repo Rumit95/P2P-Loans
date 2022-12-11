@@ -136,7 +136,7 @@ if st.button("predict"):
 
     if result[0] == 1:
         a=1
-        st.header('Congo')
+        st.header('Congratulations, you are eligible for loan.')
     else:
         a=1
-        st.header('Unfortunate')
+        st.header("Unfortunately, you aren't eligible for loan")
