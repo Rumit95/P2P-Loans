@@ -25,3 +25,5 @@ Picking Loan Status because it can give a overall Idea on how the borrower's nat
 
 If he has defaulted or delayed then it tells us that loan should'nt be given out to such people.
 If he pays it back, it means he is trust worthy and indirectly it increases his credit score, Capable of getting a loan.
+
+ref- http://cs229.stanford.edu/proj2015/199_report.pdf
