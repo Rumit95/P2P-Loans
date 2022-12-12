@@ -1,6 +1,6 @@
 # Lending Club Loan Data
 
-This Project is Dataquest's Monthly Challenge for the month of October, 2016.
+This Project is Dataquest's Monthly Challenge.
 Data is from year 2007-2019.
 
 LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform.
